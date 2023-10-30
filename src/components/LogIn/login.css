@@ -1,0 +1,36 @@
+
+
+.login-parent .form{
+    width: 40% !important;
+    margin-top: 6% !important;
+}
+
+
+
+label {
+    text-align: left !important;
+}
+.selectors {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.select {
+    width:35%;
+}
+
+.select-hoppies {
+
+    width: 63%;
+
+}
+
+.SignupLink {
+    margin-top: 20px;
+    text-align: center;
+}
+.SignupLink .Link {
+text-decoration: none;
+}

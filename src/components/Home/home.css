@@ -1,0 +1,78 @@
+.card {
+    padding: 0 65px;
+}
+
+.selector {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.search{
+    width: 100%;
+
+}
+
+
+
+.css-13cymwt-control {
+    min-height: 45px !important;
+
+}
+.css-qbdosj-Input:after {
+    min-height: 45px !important;
+
+  
+}
+.card  {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row !important;
+
+}
+
+.truncate {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+}
+.SingleCard{
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.card img {
+    width: 350px;
+    height: 300px;
+}
+.primary{
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+    padding: 5px 10px ;
+
+
+
+}
+.css-1rwjz6-MuiCardActions-root {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+}
+
+.primary:hover{
+    background-color: rgb(245, 245, 245);
+    border-radius:8px ;
+    
+}
+.title {
+    font-size: 18px !important;
+    font-weight: 600;
+
+}

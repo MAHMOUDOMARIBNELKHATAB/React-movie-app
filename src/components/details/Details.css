@@ -1,0 +1,184 @@
+.details{
+    position: relative;
+    background: no-repeat center ;
+    height: 580px;
+    background-size:  100% 600px;
+
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.6 );
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.details img {
+    height: 450px;
+    
+
+}
+
+.details .css-46bh2p-MuiCardContent-root {
+    padding: 0px !important;
+    padding-left: 50px!important;
+    
+}
+
+.details .css-1ri6ub7-MuiPaper-root-MuiCard-root {
+    background-color: transparent !important;
+    max-width: 70% !important;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: absolute;
+    top: 240px !important;
+    left: 200px !important;
+    padding-bottom: 40px;
+    box-shadow: none;
+
+
+}
+
+.details h3 {
+    color: #fff;
+
+}
+.details h3 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.details h1 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.details p {
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.details h1 {
+    color: #fff;
+    font-size: 40px;
+
+}
+
+.details p {
+    color: #fff;
+    font-size: 16px;
+
+}
+
+.play{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.play span {
+    color: #fff;
+
+}
+
+.play img {
+    width: 50px;
+    height: 30px;
+}
+
+.play button {
+    color: #fff;
+}
+
+.out-bk  {
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 100%;
+
+}
+
+.left{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+width: 35%;
+
+}
+.right {
+    width: 20%;
+}
+.out-bk  h3{
+    color: black;
+    font-size: 32px;
+    font-weight: 900;
+    padding:7px 0;
+    margin-top: 8px;
+    width: 150px;
+    border-right: 1px solid #d9d9d9;
+
+
+}
+
+.parent-flex{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 450px;
+}
+
+.top{
+    height: 80%;
+}
+
+.out-bk  h3 span {
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 7px;
+    
+
+}
+
+.status .status-type {
+    color: #7f7f7f;
+    font-size: 18px;
+}
+.status p {
+    color: #000;
+    font-size: 16px;
+
+}
+
+.right img{
+    width: 30px;
+    height:20px;
+
+}
+.right button{
+margin-left: 6px;
+}
+
+.black {
+    height: 30px;
+    background-color: #000 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+    border-color:#000000 !important ;
+
+}
+.white {
+    height: 30px;
+    border-color:#7f7f7f !important ;
+}
